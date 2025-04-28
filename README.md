@@ -14,7 +14,7 @@ Gönderim sırasında **konsolda** her mailin sırası ve hangi adrese gönderil
 - `smtplib` (Python'da hazır geliyor)
 - `email.message` (Python'da hazır geliyor)
 
-## ⚙️ Kurulum
+## ⚙️Kütüphane Kurulumu
 ```bash
 pip install schedule
 ```

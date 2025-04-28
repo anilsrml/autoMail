@@ -55,5 +55,5 @@ Konsolda her gönderilen mail şöyle görüntülenecek:
 2. Mail gönderildi: ornek2@example.com
 3. Mail gönderildi: ornek3@example.com
 ````
-✅ Mail içeriğinde sıralama bilgisi bulunmaz, sadece ekranda görünür.
+✅ Mail içeriğinde sıralama bilgisi bulunmaz, sadece konsolda görünür.
 

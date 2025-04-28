@@ -1,6 +1,6 @@
 # 📧 Otomatik Mail Gönderme Botu
 
-Staj başvurularında birden fazla firmaya mail atman gerekiyorsa bu proje sana çok yardımcı olacak. Bu Python projesi, birden fazla alıcıya ***otomatik olarak e-posta göndermek*** için geliştirilmiştir.  
+Staj başvurularında birden fazla firmaya mail atman gerekiyorsa bu proje sana çok yardımcı olacak. Bu Python projesi, birden fazla alıcıya **otomatik olarak e-posta göndermek** için geliştirilmiştir.  
 Gönderim sırasında **konsolda** her mailin sırası ve hangi adrese gönderildiği görüntülenir.
 
 ## 🚀 Özellikler

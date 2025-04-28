@@ -14,6 +14,11 @@ Gönderim sırasında **konsolda** her mailin sırası ve hangi adrese gönderil
 - `smtplib` (Python'da hazır geliyor)
 - `email.message` (Python'da hazır geliyor)
 
+## ⚙️ Kurulum
+```bash
+pip install schedule
+```
+
 ## 🔑 Gmail Ayarları
 
 Eğer Gmail kullanıyorsanız:
@@ -39,13 +44,13 @@ konu = 'Staj Başvurusu'
 icerik = """
     bla bla bla bla bla bla bla bla
 """
-````
+```
 Sonrasında terminalden çalıştırın:
-````bash
+```bash
 python main.py
-````
+```
 Konsolda her gönderilen mail şöyle görüntülenecek:
-````bash
+```bash
 1. Mail gönderildi: ornek1@example.com
 2. Mail gönderildi: ornek2@example.com
 3. Mail gönderildi: ornek3@example.com

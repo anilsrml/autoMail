@@ -40,3 +40,16 @@ icerik_template = """Sayın Yetkili,
 
 Ben Bursa Teknik Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim...
 """
+````
+Sonrasında terminalden çalıştırın:
+````bash
+python main.py
+````
+Konsolda her gönderilen mail şöyle görüntülenecek:
+````bash
+1. Mail gönderildi: ornek1@example.com
+2. Mail gönderildi: ornek2@example.com
+3. Mail gönderildi: ornek3@example.com
+````
+✅ Mail içeriğinde sıralama bilgisi bulunmaz, sadece ekranda görünür.
+
